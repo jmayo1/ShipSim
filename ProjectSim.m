@@ -1,6 +1,6 @@
-%%ENGI9496 Project Simulation
+%%Thesis Simulation
 %Jordan Mayo
-%Feb/Mar 2021
+%2021-2022
 %
 %
 %Use script to determine recommended collision avoidance boundaries for 
