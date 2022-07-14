@@ -13,3 +13,9 @@ Master's thesis
 Time-Based Collision Avoidance Thresholds for Autonomous Surface Vessels
 OCEANS 2021: San Diego – Porto · Sep 18, 2021
 iSSN: 0197-7385
+
+Output plot looks similar to the following, where the blue path is the path of the controlled vessel, the red path is the path of the intruder and the green 
+circle is the desired safety boundary
+
+![image](https://user-images.githubusercontent.com/105464406/179053604-57fa04c2-76d1-4eea-b3b9-b71a4d5db9ae.png)
+
